@@ -1,21 +1,215 @@
-{
-"brooks" : {"author": "G Brooks", "DOB": "June 7, 1917 - December 2, 2000", "Area": "Bronzeville", "Works": "Negro Hero (1945), The Mother(1945), A Street in Bronzeville (1945), The Children of the Poor (1949), Annie Allen (1950), Maud Martha (1953), Bronzeville Boys and Girls (1956), The Bean Eaters (1960), Selected Poems (1963), A Song in the Front Yard (1963), We Real Cool (1966), In the Mecca (1968), Malcolm X (1968), Riot (1969), Family Pictures (1970), Black Steel: Joe Frazier and Muhammad Ali (1971), The World of Gwendolyn Brooks (1971), Aloneness (1971)", "Affiliations": "Author", "ExternalLink1": "<a href=\"http://www.poetryfoundation.org/bio/gwendolyn-brooks\">The Poetry Foundation </a>", "ExternalLink2": "<a href=\"http://www.illinois.gov/poetlaureate/Pages/brooks.aspx\">Illinois Poet Laureate </a>"},
-"bellow" : {"author": "S Bellow", "DOB": "6/10/1915-4/5/2005", "Area": "Humboldt Park", "Works": "The Dangling Man (1944), The Victim (1947), The Adventures of Augie March (1953), Henderson the Rain King (1959), Herzog (1964), Mr. Sammler's Planet (1970), Seize the Day (1956), Humboldt's Gift (1975), The Dean's December (1982), More Die of Heartbreak (1987), The Bellarosa Connection (1989), A Theft (1989), The Actual (1987), Ravelstein (2000)","Affiliations": "University of Chicago", "ExternalLink1": "<a href=\"http://www.theparisreview.org/interviews/4405/the-art-of-fiction-no-37-saul-bellow\">The Paris Review </a>", "ExternalLink2": "<a href=\"http://www.nobelprize.org/nobel_prizes/literature/laureates/1976/bellow-bio.html\">Nobel Prize for Literature </a>"},
-"wright" : {"author": "R Wright", "DOB": "9/4/1908 - 11/28/1960", "Area": "Bronzeville", "Works": "Uncle Tom's Children (1938), The Man Who Was Almost a Man (1939), Native Son (1940), The Outsider (1953), Savage Holiday (1954), The Long Dream (1958), Eight Men (1961), Lawd Today (1963), Rite of Passage (1994), A Father's Law (2008)","Affiliations": "Author, South Side Writers Group", "ExternalLink1": "<a href=\"http://www.britannica.com/biography/Richard-Wright-American-writer\"> Brittanica </a>", "ExternalLink2": "<a href=\"http://americanwritersmuseum.org/from-our-neighborhoods/wright\">American Writers Museum </a>"},
-"walker" : {"author": "M Walker", "DOB": "unknown - 1915", "Area": "Bronzeville", "Works": "For My People (1942, reprint 1968), October Journey (1973), This Is My Century: New and Collected Poems (1989), Jubilee (1999)", "Affiliations": "Author, South Side Writers Group", "ExternalLink1": "<a href=\"http://www.poetryfoundation.org/bio/margaret-walker\">The Poetry Foundation </a>", "ExternalLink2": "<a href=\"http://www.britannica.com/biography/Margaret-Walker\">Britannica </a>"},
-"dybek" : {"author": "S Dybek", "DOB": "4/10/1942", "Area": "Little Village, Pilsen", "Works": "Childhood and Other Neighborhoods: Stories (1980), The Coast of Chicago: Stories (1990), I Sailed with Magellan (2003), Ecstatic Cahoots (2014), Paper Lantern: Love Stories. Farrar, Straus and Giroux (2014)", "Affiliations": "Author, Northwestern University", "ExternalLink1": "<a href=\"http://www.poetryfoundation.org/bio/stuart-dybek\">Poetry Foundation </a>", "ExternalLink2": "<a href=\"https://www.macfound.org/fellows/822\">MacArthur fellow </a>"},
-"cisneros" : {"author": "S Cisneros", "DOB": "12/20/54", "Area": "Pilsen", "Works": "Bad boys (1980), The House on Mango Street (1984), My Wicked, Wicked Ways,(1987), Woman Hollering Creek and Other Stories (1991), Hairs = Pelitos (1994), Loose Woman: Poems (1994), Caramelo, or, Puro cuento (2002), have You Seen Marie? (2012), A House of My Own (2015)", "Affiliations": "Author, Loyola University",  "ExternalLink1": "<a href=\"http://www.sandracisneros.com\">author website </a>", "ExternalLink2": "<a href=\"https://www.poets.org/poetsorg/poet/sandra-cisneros\">Academy of American Poets </a>"},
-"algren" : {"author": "N Algren", "DOB": "3/28/1909-5/9/1981", "Area": "Wicker Park", "Works": "The Man With the Golden Arm (1949), A Walk on the Wild Side (1956)", "Affiliations": "Author", "ExternalLink1": "<a href=\"http://www.theparisreview.org/interviews/4987/the-art-of-fiction-no-11-nelson-algren\">The Paris Review </a>", "ExternalLink2": "<a href=\"https://www.popuparchive.com/collections/938/items/12525\">Interview with Studs Terkel </a>"},
-"terkel" : {"author": "S Terkel", "DOB": "5/16/1912", "Area": "Wicker Park", "Works": "Division Street: America (1967), Hard Times: An Oral History of the Great Depression (1970), Working: People Talk About What They Do All Day and How They Feel About What They Do (1974), The Good War (1984), Chicago (1986)","Affiliations": "Author", "ExternalLink1": "<a href=\"http://www.chipublib.org/lorraine-hansberry-biography\">Chicago Public Library </a>", "ExternalLink2": "<a href=\"https://www.macfound.org/fellows/733\">MacArthur fellow </a>"},
-"hemon" : {"author": "A Hemon", "DOB": "9/9/1964", "Area": "Rogers Park", "Works": "Nowhere Man (2002), The Lazarus Project (2008)", "Affiliations": "Author", "ExternalLink1": "<a href=\"http://www.chipublib.org/lorraine-hansberry-biography\">Chicago Public Library </a>", "ExternalLink2": "<a href=\"https://www.macfound.org/fellows/733\">MacArthur fellow </a>"},
-"hansberry" : {"author": "L Hansberry", "DOB": "5/19/1930 - 1/12/1965", "Area": "Washington Park", "Works": "A Raisin in the Sun (1959)", "Affiliations": "Author, South Side Writers Group", "ExternalLink1": "<a href=\"http://www.sandracisneros.com\">author website </a>", "ExternalLink2": "<a href=\"https://www.poets.org/poetsorg/poet/sandra-cisneros\">Academy of American Poets </a>"},
-"sandburg" : {"author": "C Sandburg", "DOB": "1/6/1878-7/22/1967", "Area": "Evanston", "Works": "Chicago Poems (1916), Rootabaga Stories (1922), Abraham Lincoln (1926)", "Affiliations": "Chicago Daily News, Chicago Literary Renaissance", "ExternalLink1": "<a href=\"http://www.poetryfoundation.org/bio/carl-sandburg\">The Poetry Foundation </a>", "ExternalLink2": "<a href=\"http://www.neh.gov/humanities/2013/marchapril/feature/workingmans-poet\">National Endowment for the Humanities </a>"},
-"anderson" : {"author": "S Anderson", "DOB": "9/13/1876-3/8/1941", "Area": "Bronzeville", "Works": "Winesburg, Ohio (1919), Dark Laughter (1925)", "Affiliations": "Author, Chicago Literary Renaissance", "ExternalLink1": "<a href=\"http://sherwoodandersonfoundation.org/2010/02/sherwood_anderson_a_brief_biog_1.php\">Sherwood Anderson Foundation </a>", "ExternalLink2": "<a href=\"https://www.poets.org/poetsorg/poet/sandra-cisneros\">Academy of American Poets </a>"},
-"masters" : {"author": "E Masters", "DOB": "8/23/1868-3/5/1950", "Area": "Loop", "Works": "Spoon River Anthology (1915), Illinois Poems (1941)", "Affiliations": "Author, Chicago Daily News, Chicago Literary Renaissance", "ExternalLink1": "<a href=\"http://www.poetryfoundation.org/bio/edgar-lee-masters\">The Poetry Foundation </a>"},
-"burroughs" : {"author": "E Burroughs", "DOB": "9/1/75-3/19/50", "Area": "Oak Park", "Works": "Tarzan of the Apes(1920), John Carter of Mars (1964)", "Affiliations": "Author", "ExternalLink1": "<a href=\"https://www.edgarriceburroughs.com\">author website </a>", "ExternalLink2": "<a href=\"http://www.tarzan.org\">Tarzan </a>"},
-"turrow" : {"author":  "S Turrow", "DOB": "4/12/49", "Area": "Loop", "Works": "Presumed Innocent (1987), Burden of Proof (1990)", "Affiliations": "Author", "ExternalLink1": "<a href=\"http://www.sandracisneros.com\">author website </a>", "ExternalLink2": "<a href=\"https://www.poets.org/poetsorg/poet/sandra-cisneros\">Academy of American Poets </a>"},
-"paretsky" : {"author": "S Paretsky", "DOB": "6/8/47", "Area": "Hyde Park", "Works": "Indemnity Only (1982), Blacklist (2003)", "Affiliations": "Author, University of Chicago", "ExternalLink1": "<a href=\"http://www.saraparetsky.com\">author website </a>", "ExternalLink2": "<a href=\"http://www.nytimes.com/2014/09/14/books/review/sara-paretsky-by-the-book.html\">NY Times interview </a>"},
-"meno" : {"author": "J Meno", "DOB": "1974", "Area": "Wicker Park", "Works": "Hairstyles of the Damned (2004), Marvel and a Wonder (2015)", "Affiliations": "Author, Columbia College, Akashic Books", "ExternalLink1": "<a href=\"http://www.joemeno.com\">author website </a>", "ExternalLink2": "<a href=\"http://www.akashicbooks.com/author/joe-meno\">Akashic Books </a>"},
-"bradbury" : {"author": "E Bradbury", "DOB": "8/22/20-6/5/12", "Area": "Waukegan", "Works": "The Martian Chronicles (1950), Something Wicked This Way Comes (1962), Farenheit 451(1953)", "Affiliations": "Author", "ExternalLink1": "<a href=\"http://www.theparisreview.org/interviews/6012/the-art-of-fiction-no-203-ray-bradbury\">The Paris Review </a>", "ExternalLink2": "<a href=\"http://www.raybradbury.com\">author website </a>"},
-"niffenegger" : {"author": "A Niffenegger", "DOB": "6/13/1963", "Area": "Loop", "Works": "The Time Traveler's Wife (2003), The Three Incestuous Sisters (2005), The Adventuress (2006), Her Fearful Symmetry (2009), Raven Girl (2013), The Night Bookmobile (2008)", "Affiliations": "Author, Columbia College", "ExternalLink1": "<a href=\"http://http://www.audreyniffenegger.com\"> Author Website </a>", "ExternalLink2": "<a href=\"https://www.reddit.com/r/IAmA/comments/1xu2qs/i_am_audrey_niffenegger_artist_and_writer_of_the\">Reddit AMA </a>"}
+{ 
+"sandburg" : {
+    "author": "C Sandburg",
+    "DOB": "1/6/1878-7/22/1967",
+    "Area": "Evanston",
+    "Works": "Chicago Poems (1916), Rootabaga Stories (1922), Abraham Lincoln (1926)",
+    "Affiliations": "Chicago Daily News, Chicago Literary Renaissance",
+    "ExternalLink1": "<a href=\"http://www.poetryfoundation.org/bio/carl-sandburg\">The Poetry Foundation </a>",
+    "ExternalLink2": "<a href=\"http://www.neh.gov/humanities/2013/marchapril/feature/workingmans-poet\">National Endowment for the Humanities </a>"
+},
+"anderson" : {
+    "author": "S Anderson",
+    "DOB": "9/13/1876-3/8/1941", "Area": "Bronzeville",
+    "Works": "Winesburg, Ohio (1919), Dark Laughter (1925)",
+    "Affiliations": "Author, Chicago Literary Renaissance",
+    "ExternalLink1": "<a href=\"http://sherwoodandersonfoundation.org/2010/02/sherwood_anderson_a_brief_biog_1.php\">Sherwood Anderson Foundation </a>",
+    "ExternalLink2": "<a href=\"https://www.poets.org/poetsorg/poet/sandra-cisneros\">Academy of American Poets </a>"
+},
+"masters" : {
+    "author": "E Masters",
+    "DOB": "8/23/1868-3/5/1950",
+    "Area": "Loop",
+    "Works": "Spoon River Anthology (1915), Illinois Poems (1941)",
+    "Affiliations": "Author, Chicago Daily News, Chicago Literary Renaissance",
+    "ExternalLink1": "<a href=\"http://www.poetryfoundation.org/bio/edgar-lee-masters\">The Poetry Foundation </a>"
+},
+"burroughs" : {
+    "author": "E Burroughs",
+    "DOB": "9/1/1875-3/19/1950",
+    "Area": "Oak Park",
+    "Works": "Tarzan of the Apes(1920), John Carter of Mars (1964)",
+    "Affiliations": "Author",
+    "ExternalLink1": "<a href=\"https://www.edgarriceburroughs.com\">author website </a>",
+    "ExternalLink2": "<a href=\"http://www.tarzan.org\">Tarzan </a>"
+},
+"turrow" : {
+    "author":  "S Turrow",
+    "DOB": "4/12/1949",
+    "Area": "Loop",
+    "Works": "Presumed Innocent (1987), Burden of Proof (1990)",
+    "Affiliations": "Author", "ExternalLink1": "<a href=\"http://www.sandracisneros.com\">author website </a>",
+    "ExternalLink2": "<a href=\"https://www.poets.org/poetsorg/poet/sandra-cisneros\">Academy of American Poets </a>"
+},
+"paretsky" : {
+    "author": "S Paretsky",
+    "DOB": "6/8/1947", "Area": "Hyde Park",
+    "Works": "Indemnity Only (1982), Blacklist (2003)",
+    "Affiliations": "Author, University of Chicago",
+    "ExternalLink1": "<a href=\"http://www.saraparetsky.com\">author website </a>",
+    "ExternalLink2": "<a href=\"http://www.nytimes.com/2014/09/14/books/review/sara-paretsky-by-the-book.html\">NY Times interview </a>"
+},
+"meno" : {
+    "author": "J Meno",
+    "DOB": "1974",
+    "Area": "Wicker Park",
+    "Works": "Hairstyles of the Damned (2004), Marvel and a Wonder (2015)",
+    "Affiliations": "Author, Columbia College, Akashic Books",
+    "ExternalLink1": "<a href=\"http://www.joemeno.com\">author website </a>",
+    "ExternalLink2": "<a href=\"http://www.akashicbooks.com/author/joe-meno\">Akashic Books </a>"
+},
+"bradbury" : {
+    "author": "E Bradbury",
+    "DOB": "8/22/1820-6/5/2012",
+    "Area": "Waukegan",
+    "Works": " The Martian Chronicles (1950), Fahrenheit 451 (1953), Dandelion Wine (1957), Something Wicked This Way Comes (1962), The Halloween Tree (1972), Death Is a Lonely Business (1985), A Graveyard for Lunatics (1990), Green Shadows, White Whale (1992), From the Dust Returned (2001), Let's All Kill Constance (2002), Farewell Summer (2006)",
+    "Affiliations": "Author, L.A. Science Fiction Society",
+    "ExternalLink1": "<a href=\"http://www.theparisreview.org/interviews/6012/the-art-of-fiction-no-203-ray-bradbury\">The Paris Review </a>",
+    "ExternalLink2": "<a href=\"http://www.raybradbury.com\">author website</a>"
+},
+"niffenegger" : {
+    "author": "A Niffenegger",
+    "DOB": "6/13/1963",
+    "Area": "Loop",
+    "Works": "The Time Traveler's Wife (2003), The Three Incestuous Sisters (2005), The Adventuress (2006), Her Fearful Symmetry (2009), Raven Girl (2013), The Night Bookmobile (2008)",
+    "Affiliations": "Author, Columbia College",
+    "ExternalLink1": "<a href=\"http://http://www.audreyniffenegger.com\"> Author Website </a>",
+    "ExternalLink2": "<a href=\"https://www.reddit.com/r/IAmA/comments/1xu2qs/i_am_audrey_niffenegger_artist_and_writer_of_the\">Reddit AMA </a>"
+},
+"ade" : {
+"author": "G Ade",
+"DOB": "2/9/1866-5/16/1944",
+"Area": "Loop", "Works": "Artie (1896), Pink Marsh (1897), Doc Horne (1899), Fables in slang (1899), More fables (1900), American vacations in Europe (1901), Forty modern fables (1901), Girl proposition (1902), The County Chairman (1903), Handsome Cyril (1903), In Babel; stories of Chicago (1903), Circus Day (1903), People you know (1903), Strenuous lad's library (1903), Breaking into society (1904), True bills (1904), Round about Cairo (1906), The Slim Princess (1907), Fair co-ed (1909), Old town (1909), I Knew Him When(1910), Knocking the neighbors (1913), Ade's fables (1914), The Fable of the Roistering Blades (1915), Invitation to you and your folks from Jim and some more of the home folks (1916), Marse Covington; a play in one act (1918), Hand-made fables (1920), Single blessedness, and other observations (1922), The Sigma Chi Creed (1929), On the Indiana trail (1930), Old-time saloon: not wet--not dry, just history (1931), Thirty fables in slang (1933)",
+"Affiliations": "Author, Purdue University, Chicago Morning News, Chicago Record, John T. McCutcheon"
+},
+"algren" : {
+    "author": "N Algren",
+    "DOB": "3/28/1909-5/9/1981",
+    "Area": "Wicker Park",
+    "Works": "Somebody in Boots (1935), Never Come Morning (1942), The Neon Wilderness (1947), The Man with the Golden Arm (1949), Chicago: City on the Make (1951), A Walk on the Wild Side (1956), Nelson Algren's Own Book of Lonesome Monsters (1962), Who Lost an American? (1963), Conversations with Nelson Algren (1964), Notes from a Sea Diary: Hemingway All the Way (1965), The Last Carousel (1973)",
+    "Affiliations": "Author, Works Progress Administration Federal Writers Project, Rainbo Club, Studs Terkel, Richard Wright, Willard Motley",
+    "ExternalLink1": "<a href=\"http://www.nelsonalgren.org/index.html\">The Nelson Algren Committee</a>"
+},
+"baum" : {
+    "author": "L Baum",
+    "DOB": "5/15/1856-5/6/1919",
+    "Area": "Humboldt Park",
+    "Works": "The Wonderful Wizard of Oz (1900), The Marvelous Land of Oz (1904), Queer Visitors from the Marvelous Land of Oz (1905), The Woggle-Bug Book (1905), Ozma of Oz (1907), Dorothy and the Wizard in Oz (1908), The Road to Oz (1909), The Emerald City of Oz (1910), The Patchwork Girl of Oz (1913), Little Wizard Stories of Oz (1913, collection of 6 short stories), Tik-Tok of Oz (1914), The Scarecrow of Oz (1915), Rinkitink in Oz (1916), The Lost Princess of Oz (1917), The Tin Woodman of Oz (1918), The Magic of Oz (1919), Glinda of Oz (1920)",
+    "Affiliations": "Author, Chicago Evening Post"
+},
+"brooks" : {
+    "author": "G Brooks",
+    "DOB": "6/17/1917-12/3/2000",
+    "Area": "Bronzeville",
+    "Works": "Negro Hero (1945), The Mother (1945), A Street in Bronzeville (1945), The Children of the Poor (1949), Annie Allen (1950), Maud Martha (1953) (Fiction), Bronzeville Boys and Girls (1956), The Bean Eaters (1960), Selected Poems (1963), A Song in the Front Yard (1963), We Real Cool (1966), In the Mecca (1968), Malcolm X (1968), Riot (1969), Family Pictures (1970), Black Steel: Joe Frazier and Muhammad Ali (1971), The World of Gwendolyn Brooks (1971), Aloneness (1971), Report from Part One: An Autobiography (1972), A Capsule Course in Black Poetry Writing (1975), Aurora (1972), Beckonings (1975), Other Music (1976), Black Love (1981), To Disembark (1981), Primer for Blacks (1981), Young Poet's Primer (1981), Very Young Poets (1983), The Near-Johannesburg Boy and Other Poems (1986), Blacks (1987), Winnie (1988), Children Coming Home (1991), Report From Part Two (1996), In Montgomery (2000)",
+    "Affiliations": "Author, University of Chicago, Chicago Defender, Columbia College Chicago, Northeastern Illinois University, Chicago State University, Elmhurst College, Columbia University, University of Wisconsin–Madison",
+    "ExternalLink1": "<a href=\"https://www.loc.gov/rr/program/bib/brooks\">Gwendolyn Brooks collections via Library of Congress</a>"
+},
+"bellow" : {
+    "author": "S Bellow",
+    "DOB": "5/10/1915-4/5/2005",
+    "Area": "Hyde Park",
+    "Works": "Dangling Man (1944), The Victim (1947), The Adventures of Augie March (1953), Seize the Day (1956)Henderson the Rain King (1959), Herzog (1964), Mr. Sammler's Planet (1970), Humboldt's Gift (1975), The Dean's December (1982), More Die of Heartbreak (1987), A Theft (1989), The Bellarosa Connection (1989), The Actual (1997), Ravelstein (2000)", "Affiliations": "Author, University of Chicago, Northwestern University, Ralph Ellison",
+    "ExternalLink1": "<a href=\"https://www.theparisreview.org/interviews/4405/saul-bellow-the-art-of-fiction-no-37-saul-bellow\">The Paris Review interview with Bellow</a>"
+},
+"dell" : {
+    "author": "F Dell",
+    "DOB": "6/28/1887-7/23/1969",
+    "Area": "Loop",
+    "Works": "Moon-Calf (1920), The Briary-Bush (1921), Janet March (1923), This Mad Ideal (1925), Runaway (1925), Love in Greenwich Village (1926), An Old Man's Folly (1926), An Unmarried Father (1927), Souvenir (1929), Love Without Money (1931), Diana Stair (1932), The Golden Spike (1934)",
+    "Affiliations": "Author, Chicago Evening Post, Davenport group, Prairie Radicals, Sherwood Anderson, Theodore Dreiser, Carl Sandburg, socialism",
+    "ExternalLink1": "<a href=\"https://www.newberry.org/catalogs-and-guides\">Floyd Dell papers at The Newberry Library</a>"
+},
+"dreiser" : {
+    "author": "T Dreiser",
+    "DOB": "8/27/1871-12/28/1945",
+    "Area": "Loop",
+    "Works": "Sister Carrie (1900), Jennie Gerhardt (1911), The Financier (1912), The Titan (1914), The Genius (1915), Free and Other Stories (1918), An American Tragedy (1925), Chains: Lesser Novels and Stories (1927), The Bulwark (1946), The Stoic (1947)",
+    "Affiliations": "Author, Chicago Globe, Chicago Literary Renaissance, Floyd Dell, Communist party"
+    },
+"dybek" : {
+    "author": "S Dybek",
+    "DOB": "4/10/1942",
+    "Area": "Pilsen",
+    "Works": "Childhood and Other Neighborhoods (1980), The Coast of Chicago: Stories (1990), I Sailed with Magellan (2003), Ecstatic Cahoots (2014), Paper Lantern (2014)",
+    "Affiliations": "Author, Loyola University, Iowa Writers Workshop, Northwestern University"
+},
+"farrell" : {
+    "author": "J Farrell",
+    "DOB": "2/27/1904-8/22/1979",
+    "Area": "Washington Park",
+    "Works": "Young Lonigan (1932), Gas-House McGinty (1933), Calico Shoes (1934), The Young Manhood of Studs Lonigan (1934), Guillotine Party and Other Stories (1935), Judgment Day (1935), A Note on Literary Criticism (1936), A World I Never Made (1936), Can All This Grandeur Perish? and Other Stories (1937), No Star Is Lost (1938) Tommy Gallagher's Crusade (1939), Father and Son (1940), Decision (1941), Ellen Rogers (1941), $1000 a Week and Other Stories(1942), My Days of Anger (1943), To Whom It May Concern and Other Stories (1944), The League of Frightened Philistines and Other Papers (1945), Bernard Clare (1946), When Boyhood Dreams Come True and Other Stories (1946), Literature and Morality (1947), The Road Between (1949), An American Dream Girl (1950), The Name Is Fogarty: Private Papers on Public Matters (1950), This Man and This Woman (1951), Yet Other Waters (1952) The Face of Time (1953), Reflections at Fifty and Other Essays (1954), French Girls Are Vicious and Other Stories (1955), A Dangerous Woman and Other Stories (1957), My Baseball Diary (1957), It Has Come To Pass (1958), Boarding House Blues (1961), Side Street and Other Stories (1961), The Silence of History (1963), What Time Collects (1964), Lonely for the Future (1966), When Time Was Born (1966), A Brand New Life (1968), Childhood Is Not Forever (1969), Invisible Swords (1971), Judith and Other Stories (1973), The Dunne Family (1976), Olive and Mary Anne (1977), The Death of Nora Ryan (1978)",
+    "Affiliations": "Author, University of Chicago, socialism",
+    "ExternalLink1": "<a href=\"https://www.newberry.org/catalogs-and-guides\">James Farrell papers at The Newberry Library</a>"
+},
+"fuller" : {
+    "author": "H Fuller",
+    "DOB": "1/9/1857-7/28/1929",
+    "Area": "Evanston",
+    "Works": "The Chevalier of Pensieri–Vani (1899), The Châtelaine of La Trinité (NY: The Century Co., 1892), The Cliff-Dwellers (NY: Harper & Brothers, 1893), With the Procession (1895), The Puppet-Booth: Twelve Plays (1896), From the Other Side (1898), The Last Refuge (1900), Under the Skylights (1901), Waldo Trench and Others: Stories of Americans in Italy (1908), Lines Long and Short: Biographical Sketches in Various Rhythms (1917), Bertram Cope's Year (1919), Gardens of this World (NY: Alfred A. Knopf, 1929), With the Procession (1965)",
+    "Affiliations": "Author, Eagles Nest Art Colony",
+    "ExternalLink1": "<a href=\"https://www.newberry.org/catalogs-and-guides\">Henry Blake Fuller papers at The Newberry Library</a>"
+},
+"garland" : {
+    "author": "H Garland",
+    "DOB": "9/14/1860-3/4/1940",
+    "Area": "Loop",
+    "Works": "Main-Travelled Roads (1891), Jason Edwards: An Average Man (1892), Prairie Songs (1893), Crumbling Idols (1894), Rose of Dutcher’s Coolly (1895), A Member of the Third House (1892), The Captain of the Gray-Horse Troop (1902), Cavanagh, Forest Ranger (1910), A Pioneer Mother (1922), Iowa, O Iowa (1935)",
+    "Affiliations": "Author, Eagles Nest Art Colony, Cliff Dwellers Club, Henry Blake Fuller, Frances Fisher Browne, Joseph Kirkland, Donald Robertson, Wallace Rice, Henry Kitchell Webster",
+    "ExternalLink1": "<a href=\"https://www.newberry.org/catalogs-and-guides\">Cliff Dwellers Club records at The Newberry Library</a>"
+},
+"hansberry" : {
+    "author": "L Hansberry",
+    "DOB": "5/19/1930-1/12/1965",
+    "Area": "Washington Park",
+    "Works": "The Drinking Gourd (1960), A Raisin in the Sun (1961), To Be Young, Gifted, and Black (1969)",
+    "Affiliations": "South Side Writers Group, Richard Wright",
+    "ExternalLink1": "<a href=\"https://www.americanwritersmuseum.org\">American Writers Museum (Chicago)</a>"
+},
+"hecht" : {"author": "B Hecht",
+    "DOB": "2/28/1894-4/18/1964",
+    "Area": "Loop",
+    "Works": "1001 Afternoons in Chicago (1922), Count Bruga (1926), The Champion from Far Away (1931), Actor's Blood (1936), Perfidy (1961)",
+    "Affiliations": "Author, Chicago Daily News, The Chicago Literary Times, Sherwood Anderson, Theodore Dreiser, Maxwell Bodenheim, Carl Sandburg, The Wizard of Oz",
+    "ExternalLink1": "<a href=\"https://www.newberry.org/catalogs-and-guides\">Ben Hecht papers at The Newberry Library</a>"
+},
+"motley" : {
+    "author": "W Motley",
+    "DOB": "7/14/1909-3/4/1965",
+    "Area": "Englewood",
+    "Works": "Knock on Any Door (1947), We Fished All Night (1951), Let No Man Write My Epitaph, Random House (1958), Let Noon Be Fair (1966)",
+    "Affiliations": "Author, Works Progress Administration Federal Writers Project, Nelson Algren, Richard Wright, Chicago Defender, Hull House",
+    "ExternalLink1": "<a href=\"http://libguides.niu.edu/rarebooks/motley\">Willard Motley collection at Northern Illinois University</a>"
+    },
+"royko" : {
+    "author": "M Royko",
+    "DOB": "9/19/1932-4/29/1997",
+    "Area": "Loop",
+    "Works":  "Up Against It (1967), I May Be Wrong, But I Doubt It (1968), Boss: Richard J. Daley of Chicago (1971), Slats Grobnik and Some Other Friends (1973),Sez Who? Sez Me (1983), Like I Was Sayin (1985), Dr. Kookie, You're Right (1989)",
+    "Affiliations": "Author, Chicago Daily News, Chicago Sun Times, Chicago Tribune",
+    "ExternalLink1": "<a href=\"https://www.newberry.org/catalogs-and-guides\">Mike Royko papers at The Newberry Library</a>"
+},
+"sinclair" : {
+    "author": "U Sinclair",
+    "DOB": "9/20/1878-11/25/1968",
+    "Area": "Back of the Yards",
+    "Works": "The Jungle (1906), The Brass Check (1916)",
+    "Affiliations": "Author, socialism",
+    "ExternalLink1": "<a href=\"http://dcc.newberry.org/collections/the-jungle-and-the-community-workers-and-reformers-in-turn-of-the-century-chicago\">The Jungle and the Community: Workers and Reformers in Turn-of-the-Century Chicago</a>"
+},
+"terkel" : {
+    "author": "S Terkel",
+    "DOB": "5/16/1912-10/31/2008", "Area": "Wicker Park",
+    "Works": "Giants of Jazz (1957), Division Street: America (1967), Hard Times: An Oral History of the Great Depression (1970), Working: People Talk About What They Do All Day and How They Feel About What They Do (1974), Talking to Myself: A Memoir of My Times (1977), American Dreams: Lost and Found (1983), The Good War (1984), Chicago (1986), The Great Divide: Second Thoughts on the American Dream (1988), Race: What Blacks and Whites Think and Feel About the American Obsession (1992), Coming of Age: The Story of Our Century by Those Who’ve Lived It (1995), My American Century (1997), The Spectator: Talk About Movies and Plays With Those Who Make Them (1999), Will the Circle Be Unbroken: Reflections on Death, Rebirth and Hunger for a Faith (2001), 1Hope Dies Last: Keeping the Faith in Difficult Times (2003), And They All Sang: Adventures of an Eclectic Disc Jockey (2005), Touch and Go (2007), P.S. Further Thoughts From a Lifetime of Listening (2008)",
+    "Affiliations": "Author, University of Chicago, Works Progress Administration Federal Writers Project, Nelson Algren, Chicago History Museum, WFMT Chicago",
+    "ExternalLink1": "<a href=\"http://studsterkel.wfmt.com\">WFMT Studs Terkel Radio Archives</a>"
+},
+"wright" : {
+    "author": "R Wright",
+    "DOB": "9/4/1908-11/28/1960",
+    "Area": "Bronzeville",
+    "Works": "Uncle Tom's Children (1938), The Man Who Was Almost a Man (1939), Native Son (1940), The Outsider (1953), Savage Holiday (1954), The Long Dream (1958), Eight Men ( 1961), Lawd Today (1963)", "Affiliations": "Author, Chicago Literary Renaissance, Works Progress Administration Writers Project, South Side Writers' Group, Margaret Walker, John Reed Club, American Communist Party",
+    "ExternalLink1": "<a href=\"https://www.chipublib.org/archival_post/wright-richard-papers\">Richard Wright papers at Chicago Public Library</a>"
 }
+}
+
