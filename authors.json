@@ -4,7 +4,7 @@
     "DOB": "1/6/1878-7/22/1967",
     "Area": "Evanston",
     "Works": "Chicago Poems (1916), Rootabaga Stories (1922), Abraham Lincoln (1926)",
-    "Affiliations": "Chicago Daily News, Chicago Literary Renaissance",
+    "Affiliations": "Chicago Daily News, Chicago Literary Renaissance, Dil Pickle Club",
     "ExternalLink1": "<a href=\"http://www.poetryfoundation.org/bio/carl-sandburg\">The Poetry Foundation </a>",
     "ExternalLink2": "<a href=\"http://www.neh.gov/humanities/2013/marchapril/feature/workingmans-poet\">National Endowment for the Humanities </a>"
 },
@@ -12,7 +12,7 @@
     "author": "S Anderson",
     "DOB": "9/13/1876-3/8/1941", "Area": "Bronzeville",
     "Works": "Winesburg, Ohio (1919), Dark Laughter (1925)",
-    "Affiliations": "Author, Chicago Literary Renaissance",
+    "Affiliations": "Author, Chicago Literary Renaissance, Dil Pickle Club",
     "ExternalLink1": "<a href=\"http://sherwoodandersonfoundation.org/2010/02/sherwood_anderson_a_brief_biog_1.php\">Sherwood Anderson Foundation </a>",
     "ExternalLink2": "<a href=\"https://www.poets.org/poetsorg/poet/sandra-cisneros\">Academy of American Poets </a>"
 },
@@ -169,8 +169,8 @@
 "hecht" : {"author": "B Hecht",
     "DOB": "2/28/1894-4/18/1964",
     "Area": "Loop",
-    "Works": "1001 Afternoons in Chicago (1922), Count Bruga (1926), The Champion from Far Away (1931), Actor's Blood (1936), Perfidy (1961)",
-    "Affiliations": "Author, Chicago Daily News, The Chicago Literary Times, Sherwood Anderson, Theodore Dreiser, Maxwell Bodenheim, Carl Sandburg, The Wizard of Oz",
+    "Works": "Erik Dorn (1921), 1001 Afternoons in Chicago (1922), Count Bruga (1926), The Champion from Far Away (1931), Actor's Blood (1936), Perfidy (1961)",
+    "Affiliations": "Author, Chicago Daily News, The Chicago Literary Times, Dil Pickle Club, Sherwood Anderson, Theodore Dreiser, Maxwell Bodenheim, Carl Sandburg, The Wizard of Oz",
     "ExternalLink1": "<a href=\"https://www.newberry.org/catalogs-and-guides\">Ben Hecht papers at The Newberry Library</a>"
 },
 "motley" : {
@@ -194,7 +194,7 @@
     "DOB": "9/20/1878-11/25/1968",
     "Area": "Back of the Yards",
     "Works": "The Jungle (1906), The Brass Check (1916)",
-    "Affiliations": "Author, socialism",
+    "Affiliations": "Author, Dil Pickle Club",
     "ExternalLink1": "<a href=\"http://dcc.newberry.org/collections/the-jungle-and-the-community-workers-and-reformers-in-turn-of-the-century-chicago\">The Jungle and the Community: Workers and Reformers in Turn-of-the-Century Chicago</a>"
 },
 "terkel" : {
@@ -203,6 +203,45 @@
     "Works": "Giants of Jazz (1957), Division Street: America (1967), Hard Times: An Oral History of the Great Depression (1970), Working: People Talk About What They Do All Day and How They Feel About What They Do (1974), Talking to Myself: A Memoir of My Times (1977), American Dreams: Lost and Found (1983), The Good War (1984), Chicago (1986), The Great Divide: Second Thoughts on the American Dream (1988), Race: What Blacks and Whites Think and Feel About the American Obsession (1992), Coming of Age: The Story of Our Century by Those Who’ve Lived It (1995), My American Century (1997), The Spectator: Talk About Movies and Plays With Those Who Make Them (1999), Will the Circle Be Unbroken: Reflections on Death, Rebirth and Hunger for a Faith (2001), 1Hope Dies Last: Keeping the Faith in Difficult Times (2003), And They All Sang: Adventures of an Eclectic Disc Jockey (2005), Touch and Go (2007), P.S. Further Thoughts From a Lifetime of Listening (2008)",
     "Affiliations": "Author, University of Chicago, Works Progress Administration Federal Writers Project, Nelson Algren, Chicago History Museum, WFMT Chicago",
     "ExternalLink1": "<a href=\"http://studsterkel.wfmt.com\">WFMT Studs Terkel Radio Archives</a>"
+},
+    "hemingway" : {
+    "author": "E Hemingway", 
+    "DOB": "7/21/1889-7/2/1961", 
+    "Area": "Oak Park", 
+    "Works": "Three Stories and Ten Poems (1923), In Our Time (1925)", 
+    "Affiliations": "Author, Sherwood Anderson", 
+},
+"kirkland" : {
+    "author": "J Kirkland", 
+    "DOB": "1/7/1830-4/29/189", 
+    "Area": "Bronzeville", 
+    "Works": "The Story of Chicago (1892)", 
+    "Affiliations": "Author, Chicago Tribune, Prairie Chicken literary journal", 
+    "ExternalLink1": "<a href=\"https://www.newberry.org/catalogs-and-guides\">Joseph Kirkland papers at The Newberry Library</a>"
+},
+
+"monroe" : {
+    "author": "H Monroe", 
+    "DOB": "12/23/1860-9/26/1936", 
+    "Area": "Near North", 
+    "Works": "Poetry Magazine founder", 
+    "Affiliations": "Editor, Poetry Magazine, Chicago Tribune, E.L. Masters, Carl Sandburg, Chicago Literary Renaissance", 
+    "ExternalLink1": "<a href=\"https://www.poetryfoundation.org/poems-and-poets/poets/detail/harriet-monroe\">The Poetry Foundation</a>"
+},
+"castillo" : {
+    "author": "A Castillo", 
+    "DOB": "9/4/1908-11/28/1960", 
+    "Area": "Little Italy", 
+    "Works": "Peel My Love Like an Onion (1999)", 
+    "Affiliations": "Author, Malcolm X Junior College", 
+    "ExternalLink1": "<a href=\"http://www.oac.cdlib.org/findaid/ark:/13030/tf4z09p0jw\">Ana Castillo papers, Online Archive of California</a>"
+},
+"ferber" : {
+    "author": "E Ferber", 
+    "DOB": "8/15/1885-4/16/1968", 
+    "Area": "Loop", 
+    "Works": "The Girls (1921), So Big (1924)", 
+    "Affiliations": "Author, Cliff Dwellers",
 },
 "wright" : {
     "author": "R Wright",
