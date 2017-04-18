@@ -210,6 +210,8 @@
     "Area": "Oak Park", 
     "Works": "Three Stories and Ten Poems (1923), In Our Time (1925)", 
     "Affiliations": "Author, Sherwood Anderson", 
+    "ExternalLink1": "<a href=\"http://www.ehfop.org\">Ernest Hemingway Foundation of Oak Park</a>"
+
 },
 "kirkland" : {
     "author": "J Kirkland", 
@@ -242,6 +244,7 @@
     "Area": "Loop", 
     "Works": "The Girls (1921), So Big (1924)", 
     "Affiliations": "Author, Cliff Dwellers",
+    "ExternalLink1": "<a href=\"http://digital.library.wisc.edu/1711.dl/wiarchives.uw-whs-us0098an\">Edna Ferber papers at The Wisconsin Historical Society</a>"
 },
 "wright" : {
     "author": "R Wright",
